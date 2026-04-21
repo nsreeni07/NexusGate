@@ -1,0 +1,1 @@
+NexusGate is a DIY smart lock that opens your door with a tap. Instead of using a metal key, you just wave an RFID card or fob over a sensor. It’s a fast, secure, and hands-free way to upgrade any room.
