@@ -14,7 +14,4 @@ To unlock the door, place a registered RFID card near the reader.
 
 After use, the lock automatically returns to the locked state after 3 seconds.
 
-Why I Made This Project
-
-I built NexusGate to explore embedded systems, access control, and hardware-software integration.
 <img width="1524" height="1143" alt="IMG_6876" src="https://github.com/user-attachments/assets/f581318f-02b4-4bd3-bd88-0dfa4d29a03b" />
