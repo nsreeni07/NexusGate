@@ -15,3 +15,5 @@ To unlock the door, place a registered RFID card near the reader.
 After use, the lock automatically returns to the locked state after 3 seconds.
 
 <img width="1524" height="1143" alt="IMG_6876" src="https://github.com/user-attachments/assets/f581318f-02b4-4bd3-bd88-0dfa4d29a03b" />
+<img width="1000" height="581" alt="30d2a7db-0fe6-4833-87bc-74545ef95eb0" src="https://github.com/user-attachments/assets/ff8782a1-ebb9-401d-923b-9d3ef4ea8458" />
+
